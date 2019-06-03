@@ -1,0 +1,784 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ro",
+				"rounded-circle"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"re",
+				"retweet"
+			],
+			[
+				"col-2",
+				"col-2"
+			],
+			[
+				"col",
+				"col-3"
+			],
+			[
+				"bacc",
+				"background-color\tproperty"
+			],
+			[
+				"vest",
+				"vestihitech"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"pt",
+				"pt-4"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"m",
+				"margin-left\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"p",
+				"padding-top\tproperty"
+			],
+			[
+				"d",
+				"d-flex"
+			],
+			[
+				"co",
+				"col-4"
+			],
+			[
+				"mt",
+				"mtb"
+			],
+			[
+				"a",
+				"auto\tmargin-left"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"info",
+				"infotext"
+			],
+			[
+				"f",
+				"font-family\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"in",
+				"info_h1"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"size",
+				"background-size\tproperty"
+			],
+			[
+				"GEEK",
+				"geek"
+			],
+			[
+				"s",
+				"size\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"backgro",
+				"background-size\tproperty"
+			],
+			[
+				"MAR",
+				"margin-left\tproperty"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"menu_",
+				"menu_h2"
+			],
+			[
+				"menu",
+				"menu_2"
+			],
+			[
+				"MEN",
+				"menu_2"
+			],
+			[
+				"backgrou",
+				"background-size\tproperty"
+			],
+			[
+				"baco",
+				"background-color\tproperty"
+			],
+			[
+				"l",
+				"logo"
+			],
+			[
+				"backgo",
+				"background-size\tproperty"
+			],
+			[
+				"bore",
+				"border-radius\tproperty"
+			],
+			[
+				"fle",
+				"flex\tdisplay"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"title",
+				"title_h2"
+			],
+			[
+				"block",
+				"blockboss"
+			],
+			[
+				"ar",
+				"article_img"
+			],
+			[
+				"ti",
+				"title_h4"
+			],
+			[
+				"tit",
+				"title_h3"
+			],
+			[
+				"paddi",
+				"padding-right\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"marig",
+				"margin-right\tproperty"
+			],
+			[
+				"COL",
+				"color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"bloc",
+				"blocker"
+			],
+			[
+				"Font",
+				"font-family\tproperty"
+			],
+			[
+				"backr",
+				"background\tproperty"
+			],
+			[
+				"fer",
+				"ferwheel"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"I",
+				"imag"
+			],
+			[
+				"b",
+				"block2"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"padi",
+				"padding-right\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"lo",
+				"logo_block"
+			],
+			[
+				"backgriu",
+				"background-size\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"da",
+				"display\tproperty"
+			],
+			[
+				"top",
+				"toptext"
+			],
+			[
+				"pdd",
+				"padding-top\tproperty"
+			],
+			[
+				"bacgr",
+				"background-image\tproperty"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"backgruo",
+				"background-color\tproperty"
+			],
+			[
+				"backrou",
+				"background-image\tproperty"
+			],
+			[
+				"bagro",
+				"background-image\tproperty"
+			],
+			[
+				"fir",
+				"firstp"
+			],
+			[
+				"mr",
+				"mrgnautotb"
+			],
+			[
+				"bas",
+				"background-size\tproperty"
+			],
+			[
+				"main",
+				"main_text"
+			],
+			[
+				"conte",
+				"content_text"
+			],
+			[
+				"backgroundc",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"banner",
+				"banner1"
+			],
+			[
+				"fs",
+				"font-size\tproperty"
+			],
+			[
+				"z",
+				"zglvkblck"
+			],
+			[
+				"me",
+				"m-left"
+			],
+			[
+				"ce",
+				"centre"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ds",
+				"display\tproperty"
+			],
+			[
+				"matg",
+				"margin-left\tproperty"
+			],
+			[
+				"mat",
+				"margin-left\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pading",
+				"padding-right\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"Margin",
+				"margin-left\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"fl",
+				"flex\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 17/Куличкина Анна/Ноябрь/27 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 17/Куличкина Анна/Ноябрь/27 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/Захаров Ваня/Ноябрь/27/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/Захаров Ваня/Ноябрь/27/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 15/Винокуров Кирилл/ноябрь/28/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 15/Винокуров Кирилл/ноябрь/28/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/челенджи/4/glavnaya.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/челенджи/4/betmen.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 15/Винокуров Кирилл/ноябрь/27/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 15/Винокуров Кирилл/ноябрь/27/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 15/Винокуров Кирилл/ноябрь/27/indedx.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 11/Влад Шадрин/Ноябрь/27 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 11/Влад Шадрин/Ноябрь/27 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 9/Попова Ирина/Ноябрь/27/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 9/Попова Ирина/Ноябрь/27/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 9/Попова Ирина/Ноябрь/27/1.jpg",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/ayar h/ноябрь/27 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/ayar h/ноябрь/27 урок/sait.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 15/Уваров Андрей(Парень в красной кофте)/ноябрь/+/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 15/Уваров Андрей(Парень в красной кофте)/ноябрь/+/damn.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 09/Архипов Александр/НОЯБРЯЬ/27/style01.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 09/Архипов Александр/НОЯБРЯЬ/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 15/KONSTANTIN/NOVEMBER/26_LESSON/26/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 15/KONSTANTIN/NOVEMBER/26_LESSON/26/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 15/Кумушбеков Нуржигит/ноябрь/26/Практика/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 15/Кумушбеков Нуржигит/ноябрь/26/Практика/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/ayar h/ноябрь/26 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/ayar h/ноябрь/26 урок/sait.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 09/Архипов Александр/НОЯБРЯЬ/28 УРОК/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 09/Архипов Александр/НОЯБРЯЬ/28 УРОК/3.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 09/Архипов Александр/НОЯБРЯЬ/28 УРОК/2.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 16/челенджи/9/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 16/челенджи/9/index1.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 16/челенджи/9/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 16/челенджи/7/sait.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 16/челенджи/7/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/Захаров Ваня/Октябрь/23/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/ноябрь/27 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/ноябрь/27 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/ноябрь/26 урок/index2.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/ноябрь/26 урок/style2.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/ноябрь/26 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/ноябрь/26 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 9/Попова Ирина/Ноябрь/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 9/Попова Ирина/Ноябрь/26/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 9/Попова Ирина/Ноябрь/26/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 17/Куличкина Анна/Ноябрь/26 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 17/Куличкина Анна/Ноябрь/26 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/Захаров Ваня/Октябрь/23/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 15/Винокуров Кирилл/ноябрь/26/style1.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 15/Винокуров Кирилл/ноябрь/26/mission.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 15/Винокуров Кирилл/ноябрь/26/cubes.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 15/Винокуров Кирилл/ноябрь/26/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 11/Влад Шадрин/Ноябрь/26 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 11/Влад Шадрин/Ноябрь/26 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/ноябрь/26 урок/style1.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/ноябрь/26 урок/index1.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 11/Влад Шадрин/Октябрь/22 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 11/Влад Шадрин/Октябрь/22 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 9/Попова Ирина/Октябрь/22/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 9/Попова Ирина/Октябрь/22/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/ayar h/Октябрь/22 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/ayar h/Октябрь/22 урок/Sait.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 09/Архипов Александр/ОКТЯБРЬ/22 УРОК/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 09/Архипов Александр/ОКТЯБРЬ/22 УРОК/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 17/Попов Юрий/Ноябрь/22/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 17/Попов Юрий/Ноябрь/22/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 17/Попов Юрий/Октябрь/20/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 17/Попов Юрий/Октябрь/20/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 15/KONSTANTIN/NOVEMBER/1102_DAILYMART/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 15/KONSTANTIN/NOVEMBER/1102_DAILYMART/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/октябрь/22 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/октябрь/22 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 17/Куличкина Анна/Октябрь/22 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 17/Куличкина Анна/Октябрь/22 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 17/Куличкина Анна/Октябрь/16 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 17/Куличкина Анна/Октябрь/16 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/Захаров Ваня/Октябрь/22/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/Захаров Ваня/Октябрь/22/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/октябрь/19 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/октябрь/19 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/Захаров Ваня/Октябрь/20/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/Захаров Ваня/Октябрь/21/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/Захаров Ваня/Октябрь/21/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/Захаров Ваня/Октябрь/20/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/октябрь/20 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/Тё Иванна/октябрь/20 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/challenge/1/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/challenge/1/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/challenge/5/saiteeeee/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/challenge/5/saiteeeee/qwqw.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/challenge/4/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/challenge/4/wilgu.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/ayar h/Октябрь/урок20/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/ayar h/Октябрь/урок20/sait.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 09/Архипов Александр/ОКТЯБРЬ/20 УРОК/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 09/Архипов Александр/ОКТЯБРЬ/20 УРОК/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 17/Куличкина Анна/Октябрь/21 урок/сайт 17/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 17/Куличкина Анна/Октябрь/21 урок/сайт 17/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 9/Попова Ирина/Октябрь/19 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 9/Попова Ирина/Октябрь/19 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 15/maxxximova/октябрь/19/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 15/maxxximova/октябрь/19/chtoto.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 11/Влад Шадрин/Октябрь/19 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 11/Влад Шадрин/Октябрь/19 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/челенджи/12/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-срд 16/челенджи/12/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 17/Попов Юрий/Октябрь/18 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 17/Попов Юрий/Октябрь/18 урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/challenge/челл/14/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/пнд-втк-ср 10/challenge/челл/14/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/Материалы/Октябрь/17 урок/Шаблон 1/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 17/Попов Юрий/Октябрь/18/Шаблон 1/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 17/Попов Юрий/Октябрь/18/Шаблон 1/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 16/Крылыков Максим/Октябрь/18 Урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 16/Крылыков Максим/Октябрь/18 Урок/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/М Алексей/октябрь/18 урок/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/М Алексей/октябрь/18 урок/sit.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 16/Крылыков Максим/Октябрь/17 Урок/Шаблон 1/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 16/Крылыков Максим/Октябрь/17 Урок/Шаблон 1/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 16/Крылыков Максим/Октябрь/17 Урок/Шаблон 2/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 16/Крылыков Максим/Октябрь/17 Урок/Шаблон 2/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 15/Кумушбеков Нуржигит/октябрь/17 урок/Шаблон 2/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 15/Кумушбеков Нуржигит/октябрь/17 урок/Шаблон 2/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/ayar h/Октябрь/17 урок/шаблон 2/index.html",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 10/ayar h/Октябрь/17 урок/шаблон 2/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 09/Архипов Александр/ОКТЯБРЬ/17 УРОК/Шаблон 2/style.css",
+		"/C/Users/illarionov.school/Dropbox/WEB 1/чтг-птн-сбт 09/Архипов Александр/ОКТЯБРЬ/17 УРОК/Шаблон 2/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "27.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 78.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
